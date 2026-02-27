@@ -16,3 +16,5 @@ def main():
         print(seconds, '\t', f'{distance.falling_distance(seconds):.2f}')
 
 main()
+
+print ('hello test')
